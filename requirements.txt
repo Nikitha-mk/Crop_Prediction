@@ -1,0 +1,8 @@
+#opencv-contrib-python
+#pandas
+
+flask
+scikit-learn
+ipykernel
+seaborn
+matplotlib
