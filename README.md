@@ -46,6 +46,12 @@ project-folder/
 │── static/
 │── README.md
 
+
+# Output:
+<img width="1907" height="961" alt="Screenshot 2026-03-29 233002" src="https://github.com/user-attachments/assets/b784c381-9cbd-40a9-9b96-463225a14457" />
+<img width="1880" height="968" alt="Screenshot 2026-03-29 233022" src="https://github.com/user-attachments/assets/8fa69d10-80c8-4536-9dca-37b01563b66a" />
+
+
 Open in browser:
 
 http://localhost:5000
