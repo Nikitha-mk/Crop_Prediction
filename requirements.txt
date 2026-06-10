@@ -3,6 +3,6 @@
 
 flask
 scikit-learn
-ipykernel
-seaborn
-matplotlib
+numpy
+joblib
+gunicorn
